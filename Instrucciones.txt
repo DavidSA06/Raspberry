@@ -1,0 +1,22 @@
+Instrucciones
+
+ssh pi@raspberrypi.local: Entrar a la pi desde la terminal de ubuntu
+
+ifconfig: Revisar configuración de conexiones
+
+hostname: Revisar el nombre de Hostname
+
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf: Editar el archivo de configuración de red
+sudo cat /etc/wpa_supplicant/wpa_supplicant.conf: 
+
+sudo reboot -h now: Reiniciar la RaspberryPi
+
+sudo shutdown -h now: Apagar la RaspberryPi
+
+sudo raspi-config: Abrir la configuración
+
+crontab -e: abrir y editar el administrador de segundo plano (Usar crontab guru)
+
+python3 bot.py: Activar el programa
+
+exit: Dejar de usar la raspberry pi

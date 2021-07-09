@@ -1,0 +1,33 @@
+Desde el video : https://www.youtube.com/watch?v=GQIT_NMhgFw&t=193s
+
+Ir a
+Preferencias/Ajustes/Gestor de URLs adicionales de tarjetas
+
+Pegar desde https:	//github.com/esp8266/Arduino
+			-Installing with Boards Manager
+Esto:
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Se actualizarán las bibliotecas disponibles en el Gestor de Librerías
+
+Podría funcionar descargar el repositorio completo desde la misma página e instalarlo yendo a 
+Programa/Incluir Librería/Añadir Biblioteca .ZIP
+
+RECORDAR cambiar la tarjeta a programar para que no salga el error de no encontrar la librería ESP8266WiFi.
+
+Descargar librería ESP8266WiFi
+https://github.com/esp8266/Arduino
+
+Descargar librería aREST
+https://github.com/marcoschwartz/aREST
+
+Descargar librerías de DHT en la págian de Arduino:
+https://www.arduino.cc/reference/en/libraries/dht-sensor-library/
+
+Descargar librería Adafruit_Sensor
+https://github.com/adafruit/Adafruit_Sensor
+
+Descargar el controlador para la Wemos y la Nodemcu
+https://github.com/nodemcu/nodemcu-devkit/blob/master/Drivers/CH341SER_WINDOWS.zip
+
+RECORDAR abrir el Monitor Serie antes de compilar
