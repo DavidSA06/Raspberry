@@ -1,6 +1,6 @@
 Instrucciones
 
-ssh pi@raspberrypi.local: Entrar a la pi desde la terminal de ubuntu
+ssh pi@raspberrypi.local: Entrar a la pi desde la terminal de ubuntu. Ej. ssh pi@XXX.XXX.XXX.XXX
 
 ifconfig: Revisar configuración de conexiones
 
